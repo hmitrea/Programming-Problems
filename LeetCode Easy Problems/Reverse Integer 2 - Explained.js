@@ -1,3 +1,9 @@
+// This is a redo I did with Fan. A bit different especially line 34 and 
+// how declarea a number by putting a + in front of it instead of Number()
+// EG: let stringToNum = +string 
+// instead of
+// let stringToNum = Number(string);
+
 /**
  * @param {number} x
  * @return {number}
