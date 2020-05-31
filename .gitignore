@@ -1,0 +1,5 @@
+# DS Store is a mac thing
+.DS_Store
+
+#Files that are in the main Folder
+intersection.js

@@ -45,6 +45,7 @@ var longestCommonPrefix = function(strs) {
 };
 
 console.log(longestCommonPrefix(['flower', 'flow', 'flight']));
+console.log(longestCommonPrefix(['monologue', 'monotone']));
 console.log(longestCommonPrefix(["dog","racecar","car"]));
 console.log(longestCommonPrefix([]));
 console.log(longestCommonPrefix(['aa','ab'])) // This should be 'a'
