@@ -10,7 +10,7 @@ var reverse = function(x) {
     if(Math.sign(x) === -1) {
         // If negative then we'll set variable to true 
         isNegative = true;
-    } 
+    }  
     
     // Declare a variable turn number into string, reverse it and if variable is true(meaning the number is negative) remove last character 
     let stringNum = x.toString()
