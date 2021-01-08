@@ -28,7 +28,7 @@ var letterCombinations = function(digits) {
     let combinationsArr = [...numberToLetter[digits[0]]];
     
     //
-    for (let i = 1; i < digits.legnth; i++) {
+    for (let i = 1; i < digits.length; i++) {
         // We don't want to push something over the Arr we iterate
         let updatedCombinationsArr = [];
         // Here
